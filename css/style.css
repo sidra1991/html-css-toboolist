@@ -66,3 +66,27 @@ li {
     border-radius: 50%;  
     line-height: 2;
 }
+.cerchio {
+    border-radius: 30%;
+    color:white;
+    font-size:10px;
+    padding: 5px;
+}
+.colblu {
+    background-color: #45abea;
+}
+.colvio {
+    background-color: #9c72e4;
+}
+.colver {
+    background-color: #64c0a9;
+}
+.colara {
+    background-color: #f29e33;
+}
+.colros {
+    background-color: #d863a1;
+}
+.colver2 {
+    background-color:#b0c926 ;
+}
