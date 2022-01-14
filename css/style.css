@@ -25,7 +25,8 @@ nav {
     color: white;
     background-color:#47adf1;
     border-radius: 10%;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 40px;
     height: 30px;
     width: 70px;
@@ -34,8 +35,34 @@ nav {
     color: gray;
     background-color:white;
     border-radius: 10%;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     height: 30px;
     width: 90px;
     border:1px solid gray;
+}
+section {
+    background-color: white;
+}
+h3 {
+    margin-left: 40px;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    line-height: 2;
+
+}
+.ok {
+    color: green;
+    border:1px solid green;
+    border-radius: 50%;
+    line-height: 2;
+}
+.no {
+    color: red;
+    border:1px solid red;
+    border-radius: 50%;  
+    line-height: 2;
 }
