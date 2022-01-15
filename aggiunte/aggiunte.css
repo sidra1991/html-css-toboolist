@@ -1,0 +1,10 @@
+.cerchio:hover  {
+    background-color: red;
+    font-size: 1rem;
+}
+button:hover {
+    border: 2px solid red;
+}
+span:hover {
+    font-size: 2rem;
+}
